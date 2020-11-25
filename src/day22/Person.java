@@ -3,6 +3,7 @@ package day22;
 public class Person {
 	private String name;
 	private int roll;
+     privat int contact;
 	private String nationality;
 	public String getName() {
 		return name;
