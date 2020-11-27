@@ -18,7 +18,7 @@ public class BankAccount1 {
 		 public BankAccount1(String name,double initalBalance) {
 			  
 			  this.name=name;
-			  this.initialBalance=initialBalance;
+			  //this.initialBalance=initialBalance;
 			  this.accountNum=accountNumber++;
 		displayInfo();
 		  }
